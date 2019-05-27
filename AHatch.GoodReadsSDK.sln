@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHatch.GoodReadsSDK", "AHatch.GoodReadsSDK\AHatch.GoodReadsSDK.csproj", "{21D9DA9F-E526-4978-8003-56F5FD74FA20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHatch.GoodReadsSDK.Test", "AHatch.GoodReadsSDK.Test\AHatch.GoodReadsSDK.Test.csproj", "{2C983CF4-4258-4C86-9C60-169A52B109FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D9DA9F-E526-4978-8003-56F5FD74FA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D9DA9F-E526-4978-8003-56F5FD74FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D9DA9F-E526-4978-8003-56F5FD74FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D9DA9F-E526-4978-8003-56F5FD74FA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C983CF4-4258-4C86-9C60-169A52B109FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C983CF4-4258-4C86-9C60-169A52B109FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C983CF4-4258-4C86-9C60-169A52B109FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C983CF4-4258-4C86-9C60-169A52B109FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
